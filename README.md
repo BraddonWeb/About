@@ -1,6 +1,6 @@
 - 👋 @BraddonWeb
 - 👀 Into CSS, HTML, SASS, Bootstrap, Drupal, AWS
-- 🌱 Currently into Bootstrap 5
+- 🌱 Learning Bootstrap 5
 - 📫 braddon.web@gmail.com
 
 <!---
