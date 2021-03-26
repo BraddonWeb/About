@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @BraddonWeb
-- 👀 Interested in CSS, HTML, SASS, Bootstrap, Drupal, AWS
-- 🌱 Currently learning Bootstrap 5
-- 💞️ Not looking to collaborate on anything at present.
-- 📫 Reach me at braddon.web@gmail.com
+- 👋 @BraddonWeb
+- 👀 Into CSS, HTML, SASS, Bootstrap, Drupal, AWS
+- 🌱 Currently into Bootstrap 5
+- 📫 braddon.web@gmail.com
 
 <!---
 BraddonWeb/BraddonWeb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
